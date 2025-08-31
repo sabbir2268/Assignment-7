@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Camera",
+    "description": "A classic 35mm film camera in working condition.",
+    "currentBidPrice": 120.5,
+    "timeLeft": "2h 30m",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/d0kJg2kt/camera-541213.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Gaming Laptop",
+    "description": "High-performance laptop with RTX graphics card.",
+    "currentBidPrice": 950.0,
+    "timeLeft": "5h 10m",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/2YSy8H5N/laptop-1846277.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Antique Vase",
+    "description": "A rare porcelain vase from the 18th century.",
+    "currentBidPrice": 340.75,
+    "timeLeft": "1d 3h",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/YBCtFzDx/daisies-1346049.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Smartphone",
+    "description": "Latest model with AMOLED display and 5G support.",
+    "currentBidPrice": 670.0,
+    "timeLeft": "12h 20m",
+    "bidsCount": 19,
+    "image": "https://i.ibb.co.com/6JF4sCv9/smartphone-1894723.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mountain Bike",
+    "description": "Durable mountain bike suitable for all terrains.",
+    "currentBidPrice": 420.25,
+    "timeLeft": "8h 45m",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/N2cDFG2b/mountain-bike-2831816.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Leather Jacket",
+    "description": "Stylish black leather jacket, size M.",
+    "currentBidPrice": 85.5,
+    "timeLeft": "3h 50m",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/21L1rJVz/fashion-3766441.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Luxury Watch",
+    "description": "Waterproof chronograph watch with leather strap.",
+    "currentBidPrice": 1250.0,
+    "timeLeft": "2d 4h",
+    "bidsCount": 31,
+    "image": "https://i.ibb.co.com/JR0hrFC1/wristwatch-6409941.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Electric Guitar",
+    "description": "Classic Stratocaster-style electric guitar in red finish.",
+    "currentBidPrice": 560.0,
+    "timeLeft": "6h 25m",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/0dj3Zqq/Bid2-min.png"
+  },
+  {
+    "id": 9,
+    "title": "Tablet",
+    "description": "Lightweight tablet with stylus support.",
+    "currentBidPrice": 310.0,
+    "timeLeft": "4h 15m",
+    "bidsCount": 13,
+    "image": "https://i.ibb.co.com/GvdQkJcY/analysis-1841158.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Sneakers",
+    "description": "Limited edition sneakers, size 10.",
+    "currentBidPrice": 150.0,
+    "timeLeft": "9h 40m",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/Rp9kfvh9/shoes-3574855.jpg"
+  }
+]
