@@ -10,7 +10,7 @@ const BidsSection = () => {
   const [bidAmount, setBidAmount] = useState(0);
 
   useEffect(() => {
-    fetch("/public/auctionData.json")
+    fetch("./auctionData.json")
       .then((res) => res.json())
       .then((data) => setAuctionData(data));
   }, []);

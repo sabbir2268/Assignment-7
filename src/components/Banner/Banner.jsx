@@ -6,7 +6,7 @@ const Banner = () => {
       <div
         className="w-full h-[730px] bg-cover bg-center text-white px-20 py-[20%] flex flex-col gap-5"
         style={{
-          backgroundImage: "url('./src/assets/Banner-min.jpg')",
+          backgroundImage: "url('/Banner-min.jpg')",
         }}
       >
         <h1 className="text-4xl font-bold">
